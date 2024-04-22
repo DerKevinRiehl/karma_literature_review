@@ -1,0 +1,62 @@
+<Basic Info>
+| LDAModel (current version: 0.9.0)
+| 503 docs, 5264546 words
+| Total Vocabs: 86794, Used Vocabs: 86794
+| Entropy of words: -7.81431
+| Removed Vocabs: <NA>
+|
+<Training Info>
+| Iterations: 100, Burn-in steps: 0
+| Optimization Interval: 10
+| Log-likelihood per word: -8.31144
+|
+<Initial Parameters>
+| tw: TermWeight.ONE
+| min_cf: 0 (minimum collection frequency of words)
+| min_df: 0 (minimum document frequency of words)
+| rm_top: 0 (the number of top words to be removed)
+| k: 6 (the number of topics between 1 ~ 32767)
+| alpha: 0.07 (hyperparameter of Dirichlet distribution for document-topic)
+| eta: 0.01 (hyperparameter of Dirichlet distribution for topic-word)
+| seed: 348717992 (random seed)
+| trained in version 0.9.0
+|
+<Parameters>
+| alpha (Dirichlet prior on the per-document topic distributions)
+|  [0.43146786 0.18297464 0.31947306 0.34269744 0.52243793 0.3559499 ]
+| eta (Dirichlet prior on the per-topic word distribution)
+|  0.01
+|
+<Topics>
+| #0 (1020857) : node network data system time
+| #1 (538444) : system model selfish node design
+| #2 (824508) : agent game strategi price optim
+| #3 (749163) : transact block key attack secur
+| #4 (1127189) : peer system #peertopeer download file
+| #5 (1004385) : servic resourc provid comput system
+|
+
+
+
+
+###################################
+
+
+0 node network data system time messag distribut rout number stream overlay queri content #peertopeer base
+0 #peertopeer #socialnetwork #nodetonode #peertopeersystem #overlaynetwork #peertopeernetwork #filesharing #ipaddress #livestreaming #routingtable #contentdistribution #distributedsystem #hashtable #loadbalancing #largescale
+
+1 system model selfish node design cooper data research base behaviour analysi smart inform framework protocol
+1 #distributedledger #smartcontract #peertopeer #cooperativesystem #selfishbehavior #selfishnode #distributedsystem #informationsecurity #gametheory #distributedsystems #blockchaintechnology #systemdesign #enforcementmechanism #livestreaming #opensource
+
+2 agent game strategi price optim cost social set equilibrium system player model function distribut util
+2 #nashequilibrium #utilityfunction #socialwelfare #gametheory #mechanismdesign #serviceprovider #socialnetwork #costfunction #systemdesign #resourceallocation #markovchain #optimizationproblem #priceanarchy #discountfactor #randomvariable
+
+3 transact block key attack secur system account trust network protocol bitcoin inform node one base
+3 #peertopeer #publickey #accountholder #privatekey #hashfunction #socialnetwork #sybilattack #tokenbased #proofofwork #accesscontrol #bitcoinnetowork #socialgraph #honestnode #accountingscheme #denialofservice
+
+4 peer system #peertopeer download file reput network upload incent request share contribut free base content
+4 #peertopeer #freeriding #filesharing #peertopeernetwork #peertopeersystem #incentivemechanism #reputationsystem #downloadrate #titfortat #uploadcapacity #downloadfile #peerselection #reputationbased #uploadbandwidth #numberofpeers
+
+5 servic resourc provid comput system manag applic time grid devic base network market model inform
+5 #peertopeer #serviceprovider #os #resourcesharing #resourceallocation #mobiledevice #webservice #computationresource #virtualmachine #gridcomputing #resourcemanagement #resourceprovider #adhoc #computationsystem #virtualcurrency
+

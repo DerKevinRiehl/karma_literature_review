@@ -1,0 +1,62 @@
+<Basic Info>
+| LDAModel (current version: 0.9.0)
+| 503 docs, 5264546 words
+| Total Vocabs: 86794, Used Vocabs: 86794
+| Entropy of words: -7.81431
+| Removed Vocabs: <NA>
+|
+<Training Info>
+| Iterations: 100, Burn-in steps: 0
+| Optimization Interval: 10
+| Log-likelihood per word: -8.32337
+|
+<Initial Parameters>
+| tw: TermWeight.ONE
+| min_cf: 0 (minimum collection frequency of words)
+| min_df: 0 (minimum document frequency of words)
+| rm_top: 0 (the number of top words to be removed)
+| k: 6 (the number of topics between 1 ~ 32767)
+| alpha: 0.07 (hyperparameter of Dirichlet distribution for document-topic)
+| eta: 0.01 (hyperparameter of Dirichlet distribution for topic-word)
+| seed: 2744264002 (random seed)
+| trained in version 0.9.0
+|
+<Parameters>
+| alpha (Dirichlet prior on the per-document topic distributions)
+|  [0.3538209  0.53832054 0.3229029  0.3855255  0.20736586 0.37534776]
+| eta (Dirichlet prior on the per-topic word distribution)
+|  0.01
+|
+<Topics>
+| #0 (922327) : servic resourc system provid comput
+| #1 (1238427) : peer system #peertopeer download file
+| #2 (806724) : transact secur block system key
+| #3 (812265) : agent game strategi price cost
+| #4 (557652) : model comput data inform market
+| #5 (927151) : node network system messag protocol
+|
+
+
+
+
+###################################
+
+
+0 servic resourc system provid comput manag time data applic base process devic network execut task
+0 #peertopeer #serviceprovider #os #resourcesharing #mobiledevice #webservice #computationresource #resourceallocation #virtualmachine #resourceprovider #gridcomputing #resourcemanagement #computationsystem #cloudcomputing #realtime
+
+1 peer system #peertopeer download file network content upload base reput time share free bandwidth contribut
+1 #peertopeer #freeriding #filesharing #peertopeernetwork #peertopeersystem #incentivemechanism #downloadrate #peerselection #reputationsystem #titfortat #contentdistribution #uploadcapacity #numberofpeers #downloadfile #reputationbased
+
+2 transact secur block system key network blockchain account attack bitcoin protocol inform base trust one
+2 #distributedledger #peertopeer #smartcontract #publickey #privatekey #hashfunction #accesscontrol #proofofwork #bitcoinnetowork #adhoc #thirdparty #blockchaintechnology #virtualcurrency #digitalsignature #paymentsystem
+
+3 agent game strategi price cost optim system equilibrium set mechan distribut player util model function
+3 #nashequilibrium #peertopeer #utilityfunction #gametheory #socialwelfare #serviceprovider #mechanismdesign #resourceallocation #systemdesign #costfunction #markovchain #optimizationproblem #peertopeersystem #randomvariable #timeslot
+
+4 model comput data inform market system research grid base analysi social gener network commun de
+4 #peertopeer #socialnetwork #distributedsystem #utilityfunction #realworld #computerscience #distributedsystems #mobilephone #macaddress #machinelearning #enforcementmechanism #realtime #largescale #informationsecurity #pricefunction
+
+5 node network system messag protocol rout selfish distribut cooper number set time design #peertopeer link
+5 #peertopeer #socialnetwork #cooperativesystem #nodetonode #selfishnode #filesharing #peertopeersystem #overlaynetwork #selfishbehavior #distributedsystem #peertopeernetwork #gametheory #livestreaming #adhoc #distributedsystems
+

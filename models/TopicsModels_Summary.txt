@@ -1,0 +1,154 @@
+# BLOCK CHAIN
+
+# NETWORK TECHNOLOGY
+
+# FILE SHARING
+
+# ECONOMICS / MARKET / RESOURCE ALLOCATION / GRID
+
+# GAME THEORY
+
+# BEHAVIOUR / SELFISH / COOPERATIVE 
+
+
+
+
+
+# BLOCK CHAIN
+	# ModelA
+		1 transact block account system blockchain secur bitcoin protocol contract token key distribut base data payment
+		1 #distributedledger #smartcontract #peertopeer #publickey #accountholder #hashfunction #tokenbased #privatekey #proofofwork #bitcoinnetowork #informationsecurity #accountingscheme #blockchaintechnology #paymentsystem #thirdparty
+	# *ModelB
+		5 transact block system account secur blockchain key bitcoin data protocol token contract base distribut network
+		5 #distributedledger #peertopeer #smartcontract #publickey #accountholder #privatekey #hashfunction #accesscontrol #tokenbased #proofofwork #bitcoinnetowork #thirdparty #blockchaintechnology #virtualcurrency #paymentsystem
+	# ModelC
+		2 transact secur block system key network blockchain account attack bitcoin protocol inform base trust one
+		2 #distributedledger #peertopeer #smartcontract #publickey #privatekey #hashfunction #accesscontrol #proofofwork #bitcoinnetowork #adhoc #thirdparty #blockchaintechnology #virtualcurrency #digitalsignature #paymentsystem
+	# ModelD
+		3 transact block key attack secur system account trust network protocol bitcoin inform node one base
+		3 #peertopeer #publickey #accountholder #privatekey #hashfunction #socialnetwork #sybilattack #tokenbased #proofofwork #accesscontrol #bitcoinnetowork #socialgraph #honestnode #accountingscheme #denialofservice
+	# ModelE
+		1 transact system secur blockchain block bitcoin contract inform data process base network research smart payment
+		1 #peertopeer #distributedledger #smartcontract #publickey #peertopeernetwork #proofofwork #bitcoinnetowork #informationsecurity #accesscontrol #blockchaintechnology #paymentsystem #privatekey #hashfunction #thirdparty #webservice
+	# ModelF
+		4 transact secur block system key blockchain network bitcoin data inform attack protocol base contract one
+		4 #distributedledger #peertopeer #publickey #smartcontract #hashfunction #privatekey #accesscontrol #proofofwork #peertopeernetwork #bitcoinnetowork #informationsecurity #thirdparty #digitalsignature #blockchaintechnology #denialofservice
+	# ModelG
+		1 transact block account system secur key blockchain bitcoin protocol contract network base token trust inform
+		1 #peertopeer #distributedledger #smartcontract #publickey #accountholder #privatekey #hashfunction #tokenbased #proofofwork #accesscontrol #bitcoinnetowork #accountingscheme #virtualcurrency #peertopeernetwork #thirdparty
+
+# NETWORK TECHNOLOGY
+	# ModelA
+		5 network servic inform data comput commun base devic system mobil model applic node time secur
+		5 #peertopeer #socialnetwork #adhoc #mobiledevice #publickey #realtime #realworld #accesscontrol #os #computerscience #webservice #trafficsignal #ipaddress #wirelessnetworks #mobilephone
+	# *ModelB
+		1 network inform system data model devic commun comput servic base mobil social research applic time
+		1 #peertopeer #socialnetwork #mobiledevice #adhoc #realtime #informationsecurity #computerscience #trafficsignal #realworld #computationsystem #mobilephone #distributedsystem #os #enforcementmechanism #distributedsystems
+	# ModelC
+		0 servic resourc system provid comput manag time data applic base process devic network execut task
+		0 #peertopeer #serviceprovider #os #resourcesharing #mobiledevice #webservice #computationresource #resourceallocation #virtualmachine #resourceprovider #gridcomputing #resourcemanagement #computationsystem #cloudcomputing #realtime
+	# ModelD
+		0 node network data system time messag distribut rout number stream overlay queri content #peertopeer base
+		0 #peertopeer #socialnetwork #nodetonode #peertopeersystem #overlaynetwork #peertopeernetwork #filesharing #ipaddress #livestreaming #routingtable #contentdistribution #distributedsystem #hashtable #loadbalancing #largescale
+	# ModelD
+		5 servic resourc provid comput system manag applic time grid devic base network market model inform
+		5 #peertopeer #serviceprovider #os #resourcesharing #resourceallocation #mobiledevice #webservice #computationresource #virtualmachine #gridcomputing #resourcemanagement #resourceprovider #adhoc #computationsystem #virtualcurrency
+	# ModelE
+		2 node network data messag time protocol system key servic number server devic base rout client
+		2 #peertopeer #publickey #adhoc #ipaddress #nodetonode #hashfunction #mobiledevice #overlaynetwork #peertopeersystem #privatekey #routingtable #hashtable #faulttolerance #endtoend #os
+	# ModelF
+		3 node network data time system messag distribut rout number social link graph algorithm set comput
+		3 #socialnetwork #peertopeer #nodetonode #ipaddress #overlaynetwork #adhoc #peertopeersystem #faulttolerance #routingtable #socialgraph #loadbalancing #endtoend #hashtable #largescale #nodenetwork
+	# ModelG
+		3 servic system resourc provid comput model inform base manag applic grid devic data commun time
+		3 #peertopeer #serviceprovider #os #cooperativesystem #resourcesharing #selfishbehavior #mobiledevice #webservice #distributedsystem #computationsystem #computationresource #virtualmachine #resourceprovider #distributedsystems #gridcomputing
+
+# FILE SHARING
+	# ModelA
+		3 peer node network #peertopeer download system file content time upload number bandwidth messag base protocol
+		3 #peertopeer #freeriding #peertopeernetwork #filesharing #peertopeersystem #contentdistribution #peerselection #downloadrate #uploadcapacity #titfortat #downloadfile #uploadbandwidth #overlaynetwork #numberofpeers #downloadtime
+	# *ModelB
+		3 peer system #peertopeer download file content upload reput incent base mechan bandwidth contribut network cooper
+		3 #peertopeer #freeriding #filesharing #peertopeersystem #peertopeernetwork #incentivemechanism #reputationsystem #downloadrate #peerselection #titfortat #cooperativesystem #uploadcapacity #downloadfile #uploadbandwidth #peercontribution
+	# ModelC
+		1 peer system #peertopeer download file network content upload base reput time share free bandwidth contribut
+		1 #peertopeer #freeriding #filesharing #peertopeernetwork #peertopeersystem #incentivemechanism #downloadrate #peerselection #reputationsystem #titfortat #contentdistribution #uploadcapacity #numberofpeers #downloadfile #reputationbased
+	# ModelD
+		4 peer system #peertopeer download file reput network upload incent request share contribut free base content
+		4 #peertopeer #freeriding #filesharing #peertopeernetwork #peertopeersystem #incentivemechanism #reputationsystem #downloadrate #titfortat #uploadcapacity #downloadfile #peerselection #reputationbased #uploadbandwidth #numberofpeers
+	# ModelE
+		5 peer system #peertopeer download network file reput node content upload base bandwidth cooper contribut free
+		5 #peertopeer #freeriding #filesharing #peertopeernetwork #peertopeersystem #incentivemechanism #reputationsystem #peerselection #downloadrate #cooperativesystem #titfortat #uploadcapacity #selfishnode #downloadfile #contentdistribution
+	# ModelF
+		5 peer system #peertopeer download file network reput content upload base share incent contribut free request
+		5 #peertopeer #freeriding #filesharing #peertopeernetwork #peertopeersystem #incentivemechanism #reputationsystem #downloadrate #peerselection #titfortat #uploadcapacity #contentdistribution #downloadfile #numberofpeers #uploadbandwidth
+	# ModelG
+		0 peer system #peertopeer download file content upload network base bandwidth share time reput free incent
+		0 #peertopeer #freeriding #filesharing #peertopeernetwork #peertopeersystem #incentivemechanism #downloadrate #peerselection #reputationsystem #titfortat #uploadcapacity #contentdistribution #downloadfile #numberofpeers #uploadbandwidth
+
+
+# ECONOMICS / MARKET / RESOURCE ALLOCATION / GRID
+	# ModelA
+		4 resourc node system comput servic provid grid price data market time manag selfish applic schedul
+		4 #serviceprovider #os #cooperativesystem #selfishnode #selfishbehavior #systemdesign #resourceallocation #virtualmachine #gridcomputing #computationresource #resourcemanagement #distributedsystem #distributedsystems #resourcesharing #resourceprovider
+	# ModelB
+		2 resourc servic provid system comput price grid manag market time applic task schedul requir execut
+		2 #serviceprovider #peertopeer #os #resourcesharing #resourceallocation #gridcomputing #computationresource #webservice #resourceprovider #virtualmachine #resourcemanagement #utilityfunction #marketbased #distributedcomputing #computationpower
+	# ModelC
+		4 model comput data inform market system research grid base analysi social gener network commun de
+		4 #peertopeer #socialnetwork #distributedsystem #utilityfunction #realworld #computerscience #distributedsystems #mobilephone #macaddress #machinelearning #enforcementmechanism #realtime #largescale #informationsecurity #pricefunction
+	# ModelE
+		4 resourc servic system provid comput account manag grid market applic time base requir price model
+		4 #peertopeer #serviceprovider #os #resourcesharing #accountholder #resourceallocation #gridcomputing #peertopeersystem #computationresource #tokenbased #resourceprovider #resourcemanagement #virtualmachine #virtualcurrency #accountingscheme
+	# ModelF
+		1 resourc servic provid system price account market comput grid token manag distribut time requir alloc
+		1 #serviceprovider #peertopeer #accountholder #resourceallocation #peertopeersystem #resourcesharing #tokenbased #computationresource #gridcomputing #virtualcurrency #resourcemanagement #accountingscheme #marketbased #computationpower #os
+	# *ModelG
+		4 price market data auction time bid alloc comput set algorithm resourc process cost optim load
+		4 #resourceallocation #marketbased #mechanismdesign #faulttolerance #costfunction #peertopeer #datacenter #worstcase #utilityfunction #loadbalancing #datadriven #timeslot #largescale #serviceprovider #os
+
+# GAME THEORY
+	# ModelA
+		0 agent game optim set price strategi equilibrium cost distribut player social algorithm function time follow
+		0 #nashequilibrium #socialwelfare #utilityfunction #mechanismdesign #gametheory #peertopeer #costfunction #socialnetwork #socialgraph #systemdesign #markovchain #optimizationproblem #randomvariable #priceanarchy #discountfactor
+	# *ModelB
+		0 agent game strategi optim cost system set equilibrium price player distribut model social mechan one
+		0 #nashequilibrium #peertopeer #utilityfunction #socialwelfare #gametheory #mechanismdesign #serviceprovider #costfunction #systemdesign #socialgraph #resourceallocation #markovchain #randomvariable #optimizationproblem #priceanarchy
+	# ModelC
+		3 agent game strategi price cost optim system equilibrium set mechan distribut player util model function
+		3 #nashequilibrium #peertopeer #utilityfunction #gametheory #socialwelfare #serviceprovider #mechanismdesign #resourceallocation #systemdesign #costfunction #markovchain #optimizationproblem #peertopeersystem #randomvariable #timeslot
+	# ModelD
+		2 agent game strategi price optim cost social set equilibrium system player model function distribut util
+		2 #nashequilibrium #utilityfunction #socialwelfare #gametheory #mechanismdesign #serviceprovider #socialnetwork #costfunction #systemdesign #resourceallocation #markovchain #optimizationproblem #priceanarchy #discountfactor #randomvariable
+	# ModelE
+		3 agent strategi game system price optim cost equilibrium player util distribut mechan set valu one
+		3 #nashequilibrium #peertopeer #gametheory #utilityfunction #socialwelfare #serviceprovider #mechanismdesign #systemdesign #resourceallocation #costfunction #peertopeersystem #filesharing #optimizationproblem #timeslot #markovchain
+	# ModelF
+		0 agent game strategi system optim cost equilibrium player set model mechan price function one util
+		0 #nashequilibrium #peertopeer #gametheory #utilityfunction #socialwelfare #mechanismdesign #serviceprovider #costfunction #systemdesign #resourceallocation #optimizationproblem #markovchain #priceanarchy #discountfactor #populationgame
+	# ModelG
+		5 agent game strategi system model equilibrium player cost optim distribut set one mechan follow function
+		5 #nashequilibrium #peertopeer #gametheory #utilityfunction #socialwelfare #serviceprovider #mechanismdesign #systemdesign #filesharing #markovchain #peertopeersystem #costfunction #priceanarchy #optimizationproblem #discountfactor
+
+# BEHAVIOUR / SELFISH / COOPERATIVE 
+	# ModelA
+		2 system reput servic peer resourc #peertopeer share incent mechan provid model cooper valu network base
+		2 #peertopeer #peertopeersystem #filesharing #serviceprovider #incentivemechanism #reputationsystem #peertopeernetwork #freeriding #resourceallocation #resourcesharing #gametheory #reputationbased #reputationvalue #virtualcurrency #utilityfunction
+	# *ModelC
+		5 node network system messag protocol rout selfish distribut cooper number set time design #peertopeer link
+		5 #peertopeer #socialnetwork #cooperativesystem #nodetonode #selfishnode #filesharing #peertopeersystem #overlaynetwork #selfishbehavior #distributedsystem #peertopeernetwork #gametheory #livestreaming #adhoc #distributedsystems
+	# ModelD
+		1 system model selfish node design cooper data research base behaviour analysi smart inform framework protocol
+		1 #distributedledger #smartcontract #peertopeer #cooperativesystem #selfishbehavior #selfishnode #distributedsystem #informationsecurity #gametheory #distributedsystems #blockchaintechnology #systemdesign #enforcementmechanism #livestreaming #opensource
+	# ModelE
+		0 social network agent comput model graph algorithm set interact defin time system result commun inform
+		0 #socialnetwork #peertopeer #socialgraph #priceanarchy #randomwalk #karmagame #distributedsystem #realworld #computerscience #enforcementmechanism #sybildefense #mobilephone #distributedsystems #dataset #honestnode
+	# ModelF
+		2 system servic model comput inform commun provid base mobil network applic devic selfish data manag
+		2 #peertopeer #cooperativesystem #os #selfishbehavior #mobiledevice #selfishnode #serviceprovider #distributedsystem #virtualmachine #distributedsystems #webservice #computationsystem #adhoc #resourceprovider #systemdesign
+	# ModelG
+		2 node network messag system protocol time number attack rout distribut data #peertopeer queri set receiv
+		2 #peertopeer #socialnetwork #peertopeersystem #peertopeernetwork #nodetonode #adhoc #filesharing #overlaynetwork #ipaddress #sybilattack #maliciouspeer #hashfunction #selfishnode #routingtable #publickey
+
+
+
