@@ -3,7 +3,7 @@ This is the online repository for the literature review paper on Karma.
 
 
 ## Contents of the repository
-It contains following files that are the result of topic modelling with Latent Dirichlet Allocation on the literature corpus (list of all documents used):
+It contains following files that are the result of topic modelling with Latent Dirichlet Allocation on the literature corpus:
 
 - **LiteratureCorpus.xlsx** contains a list of all papers that were found and considered in this study.
 - **LDA_Topic_Word_Lists.xlsx** contains a list of manually selected words from the top 100 words for each topic.
